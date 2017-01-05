@@ -1,0 +1,32 @@
+{
+  "name": "red-cloud-prototype",
+  "version": "0.1.0",
+  "description": "red-cloud-prototype",
+  "main": "index.js",
+  "scripts": {
+    "start": "PORT=8080 node server.js",
+    "webpack": "webpack"
+  },
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mrichetto@opentable.com"
+  },
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-core": "^6.21.0",
+    "babel-eslint": "^7.1.1",
+    "babel-loader": "^6.2.10",
+    "chance": "^1.0.4",
+    "connect": "^3.5.0",
+    "eslint": "^3.12.2",
+    "eslint-config-opentable": "^6.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "getbase": "^3.2.1",
+    "json-loader": "^0.5.4",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "react-swipeable": "^3.7.0",
+    "serve-static": "^1.11.1",
+    "webpack": "^1.14.0"
+  }
+}
