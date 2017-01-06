@@ -1,0 +1,17 @@
+{
+  "name": "red-cloud-prototype",
+  "version": "0.1.0",
+  "description": "red-cloud-prototype",
+  "main": "index.js",
+  "scripts": {
+    "start": "node prototype/server.js"
+  },
+  "author": {
+    "name": "Mattia Richetto",
+    "email": "mrichetto@opentable.com"
+  },
+  "dependencies": {
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1"
+  }
+}
