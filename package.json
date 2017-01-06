@@ -9,5 +9,9 @@
   "author": {
     "name": "Mattia Richetto",
     "email": "mrichetto@opentable.com"
+  },
+  "dependencies": {
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1"
   }
 }
