@@ -1,6 +1,6 @@
 # red-cloud
 
-red-cloud is a playground for an hackathon idea
+red-cloud is a playground for a hackathon idea
 
 ## Resources
 
